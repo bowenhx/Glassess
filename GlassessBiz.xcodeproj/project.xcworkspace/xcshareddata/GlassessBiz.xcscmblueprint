@@ -1,0 +1,39 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "f700c9b3-c109-44cf-bde4-2fb5717b1ae6++7643",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f700c9b3-c109-44cf-bde4-2fb5717b1ae6++7643" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B8E0CCD9-4C34-4803-82FA-0397516573E3" : 0,
+    "f700c9b3-c109-44cf-bde4-2fb5717b1ae6++7643" : 0,
+    "8F16D26249A248C03A06E46E073B24EAFB921419" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "561BD36D-6804-424D-B125-2203DED2052B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B8E0CCD9-4C34-4803-82FA-0397516573E3" : "ios_Glassess(眼镜)",
+    "f700c9b3-c109-44cf-bde4-2fb5717b1ae6++7643" : "ios_Glassess(%E7%9C%BC%E9%95%9C)",
+    "8F16D26249A248C03A06E46E073B24EAFB921419" : "ios_Glassess\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GlassessBiz",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GlassessBiz.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bowenhx\/Glassess.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F16D26249A248C03A06E46E073B24EAFB921419"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/42.120.10.224:81\/svn\/ios_apps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B8E0CCD9-4C34-4803-82FA-0397516573E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/42.120.10.224:81\/svn\/ios_apps",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f700c9b3-c109-44cf-bde4-2fb5717b1ae6++7643"
+    }
+  ]
+}
